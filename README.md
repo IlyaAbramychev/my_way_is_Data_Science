@@ -1,6 +1,4 @@
-# My ML/NLP/CV projects completed during my training in Data Science
-
-## Специалист по Data Science
+# Специалист по Data Science
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
 
